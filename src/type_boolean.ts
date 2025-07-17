@@ -4,7 +4,6 @@ let estaAutenticado: boolean = true;
 
 console.log(estaAutenticado) // true
 
-
 estaAutenticado = false;
 
 console.log(estaAutenticado) // false
@@ -17,4 +16,3 @@ let codeStatus: number = 1;
 estaAutenticado = Boolean(codeStatus);
 
 console.log(estaAutenticado) // true
-

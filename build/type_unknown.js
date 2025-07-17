@@ -17,4 +17,4 @@ console.log(entregador); // 123
 // valor do tipo unknown só podem ser atribuidos ao tipo unknown ou any                               <-  !!
 // let totalEntrega: number = totalPedido; // ERRO
 let totalEntrega = totalPedido; // aqui vai
-console.log(totalEntrega);
+console.log(totalEntrega); // 15
